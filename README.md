@@ -7,8 +7,8 @@ EDA for Global Terrorism Database from Kaggle, visualized using R and Shiny app.
 4) After the script is done loading, a new web page will be opened in the default web browser. At the bottom of R Console, it should display 'Listening on http://0.0.0.0:8080'.
 5) The web page displays panels at the top. Navigate each panel to explore various plots (bar plot, line plot, world map, etc).
 6) Use the mouse to interact with the plots. Depending on the plots, these can be done:
-  a) Display more information on hovering the mouse 
-  b) Zoom in/out the plot
-  c) Save the plot as an image
-  d) Isolate certain lines/bubbles of the plot (applicable for line/bubble plot)
+  a) Display more information on hovering the mouse </br>
+  b) Zoom in/out the plot </br>
+  c) Save the plot as an image </br>
+  d) Isolate certain lines/bubbles of the plot (applicable for line/bubble plot) </br>
 7) Simply close the web page and exit RStudio after having explored the plots.
